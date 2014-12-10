@@ -1,0 +1,12 @@
+<snippet>
+    <content><![CDATA[
+//<debug>
+if (me.enableLog) {
+    console.log('${1:log}');
+}
+//</debug>
+]]></content>
+    <tabTrigger>enablelog</tabTrigger>
+    <scope>source.js</scope> 
+    <description>if (me.enableLog) {}</description>
+</snippet>
